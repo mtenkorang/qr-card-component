@@ -19,7 +19,7 @@ body {
           box-shadow: 0 0 1px hsl(218deg, 44%, 22%);
   background-color: hsl(0deg, 0%, 100%);
   width: 20rem;
-  height: 32rem;
+  height: 31.5rem;
   border-radius: 10px;
   padding: 15px;
 }
@@ -28,14 +28,15 @@ body {
   border-radius: 10px;
 }
 .card h2 {
+  text-align: center;
+  padding: 0 5px;
   font-family: "Outfit", sans-serif;
   color: hsl(218deg, 44%, 22%);
   margin: 20px 0px;
-  padding: 0 5px;
 }
 .card p {
-  font-family: "Outfit", sans-serif;
   text-align: center;
-  color: hsl(220deg, 15%, 55%);
   padding: 0 5px;
+  font-family: "Outfit", sans-serif;
+  color: hsl(220deg, 15%, 55%);
 }/*# sourceMappingURL=style.css.map */
