@@ -8,15 +8,21 @@
 
 body {
   background-color: hsl(220deg, 15%, 55%);
-  display: grid;
-  place-items: center;
 }
 
 .card {
-  width: 200px;
-  height: 400px;
+  border: 1px solid green;
+  width: 25rem;
+  height: 80vmin;
+  display: grid;
+  place-items: center;
 }
 .card img {
-  -o-object-fit: contain;
-     object-fit: contain;
+  width: 100%;
+}
+.card h1 {
+  font-family: "Outfit", sans-serif;
+}
+.card p {
+  font-family: "Outfit", sans-serif;
 }
