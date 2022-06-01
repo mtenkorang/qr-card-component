@@ -46,5 +46,9 @@ div.attribution {
   text-align: center;
   padding: 0 5px;
   font-family: "Outfit", sans-serif;
-  font-size: 14px;
+  font-size: 11px;
+}
+div.attribution a {
+  color: hsl(228deg, 45%, 44%);
+  text-decoration: none;
 }
