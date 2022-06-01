@@ -7,10 +7,11 @@
 }
 
 body {
-  background-color: hsl(218deg, 44%, 22%);
+  background-color: hsl(212deg, 45%, 89%);
   display: grid;
   place-items: center;
-  height: 90vmin;
+  height: 100vmax;
+  width: 100%;
 }
 
 .card {
@@ -32,5 +33,5 @@ body {
 .card p {
   font-family: "Outfit", sans-serif;
   text-align: center;
-  color: hsl(212deg, 45%, 89%);
+  color: hsl(220deg, 15%, 55%);
 }/*# sourceMappingURL=style.css.map */
