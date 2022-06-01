@@ -10,13 +10,13 @@ body {
   background-color: hsl(212deg, 45%, 89%);
   display: grid;
   place-items: center;
-  height: 100vmax;
-  width: 100%;
+  height: 100vh;
+  max-width: 100%;
 }
 
 .card {
-  -webkit-box-shadow: 0 0 2px hsl(0deg, 0%, 100%);
-          box-shadow: 0 0 2px hsl(0deg, 0%, 100%);
+  -webkit-box-shadow: 0 0 1px hsl(218deg, 44%, 22%);
+          box-shadow: 0 0 1px hsl(218deg, 44%, 22%);
   background-color: hsl(0deg, 0%, 100%);
   width: 20rem;
   height: 32rem;
@@ -25,13 +25,17 @@ body {
 }
 .card img {
   width: 100%;
+  border-radius: 10px;
 }
 .card h2 {
   font-family: "Outfit", sans-serif;
   color: hsl(218deg, 44%, 22%);
+  margin: 20px 0px;
+  padding: 0 5px;
 }
 .card p {
   font-family: "Outfit", sans-serif;
   text-align: center;
   color: hsl(220deg, 15%, 55%);
+  padding: 0 5px;
 }/*# sourceMappingURL=style.css.map */
