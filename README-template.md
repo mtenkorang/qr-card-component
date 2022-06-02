@@ -24,7 +24,7 @@ A mobile responsive website for a QR Code image.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [GitHub Repo](https://github.com/mtenkorang/qr-card-component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My Process
