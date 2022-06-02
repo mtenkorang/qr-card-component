@@ -25,7 +25,7 @@ A mobile responsive website for a QR Code image.
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/mtenkorang/qr-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [QR-CODE Netlify](https://mtenkorang-qrcode.netlify.app/)
 
 ## My Process
 
