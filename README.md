@@ -56,7 +56,7 @@ body{
 ## Author
 
 - GitHub - [Moses Tenkorang](https://github.com/mtenkorang)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mtenkorang](https://www.frontendmentor.io/profile/mtenkorang)
 
 
 HAPPY CODING!!!
