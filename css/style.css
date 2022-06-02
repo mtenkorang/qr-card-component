@@ -16,8 +16,8 @@ body {
 }
 
 .card {
-  -webkit-box-shadow: 0 0 5px hsl(218deg, 44%, 22%);
-          box-shadow: 0 0 5px hsl(218deg, 44%, 22%);
+  -webkit-box-shadow: 0 0 8px hsl(220deg, 15%, 55%);
+          box-shadow: 0 0 8px hsl(220deg, 15%, 55%);
   background-color: hsl(0deg, 0%, 100%);
   max-width: 20rem;
   height: 31.5rem;
